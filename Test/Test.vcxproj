@@ -83,6 +83,9 @@
     <ClCompile Include="test.cpp" />
     <ClCompile Include="twoDots2oneDots.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="takeWaterTimes.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
